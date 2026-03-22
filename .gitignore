@@ -1,1 +1,12 @@
+# dépendances
+node_modules
+backend/node_modules
+frontend/node_modules
+
+# variables d'environnement
+.env
+backend/.env
+frontend/.env
+
+# fichiers système
 .DS_Store
